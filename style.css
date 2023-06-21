@@ -1,0 +1,47 @@
+.main{
+
+    border: 2px solid black;
+    
+}
+
+#name{
+    text-align: center;
+    background-color: darkgray;
+    color: brown;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    font-size: xx-large;
+}
+
+.navbar{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    justify-content: space-evenly;
+    height: 40px;
+    background-color: aquamarine;
+    
+    
+}
+
+.navbar a{
+
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.navbar a:hover{
+
+    border: 2px solid black;
+}
+
+.frame{
+
+    height: 400px;
+    width: 100%;
+    border: 2px solid black;
+
+}
